@@ -560,7 +560,14 @@
 202.201.106.117  yt3.ggpht.com	
 202.201.106.117  yt4.ggpht.com	
 202.201.106.117  yt5.ggpht.com	
-202.201.106.117  yt6.ggpht.com	
+202.201.106.117  yt6.ggpht.com
+202.201.106.117  lh.ggpht.com	
+202.201.106.117  lh1.ggpht.com	
+202.201.106.117  lh2.ggpht.com	
+202.201.106.117  lh3.ggpht.com	
+202.201.106.117  lh4.ggpht.com	
+202.201.106.117  lh5.ggpht.com	
+202.201.106.117  lh6.ggpht.com
 202.201.106.117	accounts.gstatic.com
 202.201.106.117	maps.gstatic.com
 203.208.43.88	ssl.gstatic.com
@@ -609,6 +616,7 @@
 202.201.106.117	bigcache.googleapis.com
 202.201.106.117	chart.googleapis.com
 202.201.106.117	content.googleapis.com
+202.201.106.117 cloudconfig.googleapis.com
 202.201.106.117	maps.googleapis.com
 202.201.106.117	origin-commondatastorage.googleapis.com
 202.201.106.117	play.googleapis.com
