@@ -10,6 +10,7 @@
 202.114.33.28	m.googlemail.com
 202.114.33.28	mail.google.com
 202.114.33.28	www.gmail.com
+202.114.33.28 imap.gmail.com
 202.114.33.28   mail-settings.google.com	
 # Gmail web End	
 
@@ -507,6 +508,8 @@
 202.114.33.28	3.gvt0.com
 202.114.33.28	4.gvt0.com
 202.114.33.28	5.gvt0.com
+202.114.33.28 beacons-handoff.gcp.gvt2.com
+202.114.33.28 beacons.gcp.gvt2.com
 202.114.33.28	wave.google.com
 202.114.33.28	wave0.google.com
 202.114.33.28	wave1.google.com
