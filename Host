@@ -2648,6 +2648,7 @@
 # OneDrive End
 
 #WhatsApp
+#WhatsApp
 31.13.68.52 www-cdn.whatsapp.net
 31.13.68.52 faq.whatsapp.com
 31.13.68.52 web.whatsapp.com
@@ -2670,13 +2671,13 @@
 169.63.73.53    e14.whatsapp.net
 169.63.73.118    e15.whatsapp.net
 169.63.73.66    e16.whatsapp.net
-169.54.222.153    mms.whatsapp.net
+52.206.110.144    mms.whatsapp.net
 158.85.5.217    m.whatsapp.net
 157.240.8.53	c.whatsapp.net
-158.85.5.217	m.whatsapp.net
-174.37.243.84	p.whatsapp.net
-50.22.210.33	r.whatsapp.net
-169.44.80.10	v.whatsapp.net
+157.240.18.53	g.whatsapp.net
+#174.37.243.84	p.whatsapp.net
+169.63.76.38	r.whatsapp.net
+157.240.1.53	v.whatsapp.net
 179.60.195.51    pps.whatsapp.net
 34.232.11.215    mmh.whatsapp.net
 179.60.193.52    mmg.whatsapp.net
@@ -2685,11 +2686,10 @@
 169.44.84.178    v.whatsapp.com
 31.13.68.52    *.web.whatsapp.com
 169.44.84.164    chat.whatsapp.com
-158.85.5.217    *.whatsapp.net
-169.44.82.102    *.whatsapp.com
-192.155.212.202   graph.facebook.com
-157.240.22.53   mmx-ds.cdn.whatsapp.net
-157.240.22.53   media-hkg3-2.cdn.whatsapp.net
+192.155.212.202    *.whatsapp.com
+185.60.217.20   graph.facebook.com
+157.240.18.53    mmx-ds.cdn.whatsapp.net
+157.240.18.53    media-hkg3-2.cdn.whatsapp.net
 
 202.201.106.117 beacons-handoff.gcp.gvt2.com
 202.201.106.117 beacons.gcp.gvt2.com
