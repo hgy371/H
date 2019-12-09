@@ -2584,7 +2584,32 @@
 64.233.188.125	talk.l.google.com
 64.233.188.125	talkx.l.google.com
 64.233.188.125	alt1.talk.l.google.com
-# Google:Gtalk End	
+# Google:Gtalk End
+
+119.28.100.45 photodata-pa.googleapis.com	
+
+119.28.100.45 ap1.googleusercontent.com
+119.28.100.45 ap2.googleusercontent.com
+119.28.100.45 ap3.googleusercontent.com
+119.28.100.45 ap4.googleusercontent.com
+119.28.100.45 ap5.googleusercontent.com
+119.28.100.45 ap6.googleusercontent.com
+119.28.100.45 ap7.googleusercontent.com
+119.28.100.45 ap8.googleusercontent.com
+119.28.100.45 ap9.googleusercontent.com
+119.28.100.45 ap10.googleusercontent.com
+119.28.100.45 ap11.googleusercontent.com
+119.28.100.45 ap12.googleusercontent.com
+119.28.100.45 ap13.googleusercontent.com
+119.28.100.45 ap14.googleusercontent.com
+119.28.100.45 ap15.googleusercontent.com
+119.28.100.45 ap16.googleusercontent.com
+119.28.100.45 ap17.googleusercontent.com
+119.28.100.45 ap18.googleusercontent.com
+119.28.100.45 ap19.googleusercontent.com
+119.28.100.45 ap20.googleusercontent.com
+119.28.100.45 app-measurement.com
+
 	
 # Google:ghs Start	
 119.28.100.45	ghs.google.com
