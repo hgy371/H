@@ -2778,8 +2778,9 @@
 
 119.28.100.45 pushnotificationtester.appspot.com
 119.28.100.45 pushnotificationtester-fcm.appspot.com
-172.217.163.10 fcm.googleapis.com
+119.28.100.45 fcm.googleapis.com
 119.28.100.45 photos.googleapis.com
 119.28.100.45 instantmessaging-pa.googleapis.com
 119.28.100.45 accountsettingsmobile-pa.googleapis.com
 119.28.100.45 mobilenetworkscoring-pa.googleapis.com
+142.250.8.92 tokenized.play.google.com
