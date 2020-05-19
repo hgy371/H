@@ -1,4 +1,3 @@
-# Gmail web Start	
 119.28.100.45	chatenabled.mail.google.com
 119.28.100.45	filetransferenabled.mail.google.com
 119.28.100.45	gmail.com
@@ -607,33 +606,33 @@
 # gstatic End	
 	
 # Googleapis Start	
-119.28.100.45	chart.apis.google.com
-119.28.100.45	googleapis.com
-119.28.100.45	www.googleapis.com
-119.28.100.45	ajax.googleapis.com
-119.28.100.45	android.googleapis.com
-119.28.100.45	bigcache.googleapis.com
-119.28.100.45	chart.googleapis.com
-119.28.100.45	content.googleapis.com
-119.28.100.45 cloudconfig.googleapis.com
-119.28.100.45	maps.googleapis.com
-119.28.100.45	origin-commondatastorage.googleapis.com
-119.28.100.45	play.googleapis.com
-119.28.100.45	plus.googleapis.com
-119.28.100.45	redirector-bigcache.googleapis.com
-119.28.100.45	translate.googleapis.com
-119.28.100.45	youtube.googleapis.com
-119.28.100.45	youtubei.googleapis.com
-119.28.100.45	mt0.googleapis.com
-119.28.100.45	mt1.googleapis.com
-119.28.100.45	mt2.googleapis.com
-119.28.100.45	mt3.googleapis.com
-119.28.100.45	mts0.googleapis.com
-119.28.100.45	mts1.googleapis.com
-119.28.100.45	mts2.googleapis.com
-119.28.100.45	mts3.googleapis.com
-119.28.100.45   mobilemaps-pa.googleapis.com
-119.28.100.45   chromesyncpasswords-pa.googleapis.com
+119.28.183.127	chart.apis.google.com
+119.28.183.127	googleapis.com
+119.28.183.127	www.googleapis.com
+119.28.183.127	ajax.googleapis.com
+119.28.183.127	android.googleapis.com
+119.28.183.127	bigcache.googleapis.com
+119.28.183.127	chart.googleapis.com
+119.28.183.127	content.googleapis.com
+119.28.183.127 cloudconfig.googleapis.com
+119.28.183.127	maps.googleapis.com
+119.28.183.127	origin-commondatastorage.googleapis.com
+119.28.183.127	play.googleapis.com
+119.28.183.127	plus.googleapis.com
+119.28.183.127	redirector-bigcache.googleapis.com
+119.28.183.127	translate.googleapis.com
+119.28.183.127	youtube.googleapis.com
+119.28.183.127	youtubei.googleapis.com
+119.28.183.127	mt0.googleapis.com
+119.28.183.127	mt1.googleapis.com
+119.28.183.127	mt2.googleapis.com
+119.28.183.127	mt3.googleapis.com
+119.28.183.127	mts0.googleapis.com
+119.28.183.127	mts1.googleapis.com
+119.28.183.127	mts2.googleapis.com
+119.28.183.127	mts3.googleapis.com
+119.28.183.127   mobilemaps-pa.googleapis.com
+119.28.183.127   chromesyncpasswords-pa.googleapis.com
 # 216.58.221.48	storage.googleapis.com
 # 216.58.221.48	commondatastorage.googleapis.com
 # 216.58.221.48	bucket.commondatastorage.googleapis.com
@@ -1493,7 +1492,7 @@
 119.28.100.45	certificate-transparency.org
 119.28.100.45	www.certificate-transparency.org
 119.28.100.45	abc.xyz
-119.28.100.45 playatoms-pa.googleapis.com
+119.28.183.127 playatoms-pa.googleapis.com
 203.208.41.78 redirector.gvt1.com
 203.208.40.70 app-measurement.com
 # Google:others End	
@@ -1533,9 +1532,9 @@
 64.233.188.125	alt1.talk.l.google.com
 # Google:Gtalk End
 
-119.28.100.45 photodata-pa.googleapis.com	
-119.28.100.45 photosdata-pa.googleapis.com
-119.28.100.45 people-pa.googleapis.com
+119.28.183.127 photodata-pa.googleapis.com	
+119.28.183.127 photosdata-pa.googleapis.com
+119.28.183.127 people-pa.googleapis.com
 
 119.28.100.45 ap1.googleusercontent.com
 119.28.100.45 ap2.googleusercontent.com
@@ -1662,30 +1661,30 @@
 119.28.100.45 pushnotificationtester.appspot.com
 119.28.100.45 pushnotificationtester-fcm.appspot.com
 119.28.100.45 fcm.googleapis.com
-119.28.100.45 photos.googleapis.com
-119.28.100.45 instantmessaging-pa.googleapis.com
-119.28.100.45 accountsettingsmobile-pa.googleapis.com
-119.28.100.45 mobilenetworkscoring-pa.googleapis.com
+119.28.183.127 photos.googleapis.com
+119.28.183.127 instantmessaging-pa.googleapis.com
+119.28.183.127 accountsettingsmobile-pa.googleapis.com
+119.28.183.127 mobilenetworkscoring-pa.googleapis.com
 142.250.8.92 tokenized.play.google.com
 119.28.100.45 googleweblight.com
-119.28.100.45 searchlite-pa.googleapis.com
-119.28.100.45 firebaseinstallations.googleapis.com
-119.28.100.45 readaloud.googleapis.com
-119.28.100.45 infinitedata-pa.googleapis.com
+119.28.183.127 searchlite-pa.googleapis.com
+119.28.183.127 firebaseinstallations.googleapis.com
+119.28.183.127 readaloud.googleapis.com
+119.28.183.127 infinitedata-pa.googleapis.com
 119.28.100.45 connectivitycheck.gstatic.com
-119.28.100.45 sticker-pa.googleapis.com
-119.28.100.45 eyckavatar-pa.googleapis.com
-142.250.11.95 optimizationguide-pa.googleapis.com
+119.28.183.127 sticker-pa.googleapis.com
+119.28.183.127 eyckavatar-pa.googleapis.com
+119.28.183.127 optimizationguide-pa.googleapis.com
 142.250.11.202 kknews-cc.cdn.ampproject.org
 142.250.11.202 cdn-content.ampproject.org
-142.250.11.95 content-autofill.googleapis.com
-142.250.11.95 firebaseperusertopics-pa.googleapis.com
+119.28.183.127 content-autofill.googleapis.com
+119.28.183.127 firebaseperusertopics-pa.googleapis.com
 #r3.sn-bvn0o-jqxl.gvt1.com
-142.250.11.95 storage.googleapis.com
-142.250.11.95 update.googleapis.com
-142.250.11.95 clientservices.googleapis.com
-142.250.11.95 safebrowsing.googleapis.com
-142.250.11.95 myphonenumbers-pa.googleapis.com
-142.250.11.95 phonedeviceverification-pa.googleapis.com
-142.250.11.95 footprints-pa.googleapis.com
+119.28.183.127 storage.googleapis.com
+119.28.183.127 update.googleapis.com
+119.28.183.127 clientservices.googleapis.com
+119.28.183.127 safebrowsing.googleapis.com
+119.28.183.127 myphonenumbers-pa.googleapis.com
+119.28.183.127 phonedeviceverification-pa.googleapis.com
+119.28.183.127 footprints-pa.googleapis.com
 108.177.126.192 supl.google.com
